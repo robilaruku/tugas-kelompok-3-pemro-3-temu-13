@@ -1,4 +1,7 @@
 #BlueJ package file
+dependency1.from=App
+dependency1.to=InputUtil
+dependency1.type=UsesDependency
 editor.fx.0.height=1056
 editor.fx.0.width=1936
 editor.fx.0.x=-8
@@ -13,7 +16,7 @@ package.editor.x=0
 package.editor.y=0
 package.frame.height=1056
 package.frame.width=1936
-package.numDependencies=0
+package.numDependencies=1
 package.numTargets=3
 package.showExtends=true
 package.showUses=true
@@ -28,7 +31,7 @@ target1.name=App
 target1.showInterface=false
 target1.type=ClassTarget
 target1.width=120
-target1.x=510
+target1.x=600
 target1.y=190
 target2.height=70
 target2.name=CheckDB
